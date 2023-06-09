@@ -11,7 +11,6 @@ public class NotNullAnnotationExample {
 	@Test
 	public void testNotNullAnnotation() {
 		System.out.println(getStudentId(null));
-		System.out.println("Hello");
 	}
 	
 	
